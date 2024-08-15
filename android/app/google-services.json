@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "354183233916",
+    "project_id": "tokio-3a44f",
+    "storage_bucket": "tokio-3a44f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354183233916:android:d5fa6262d9397ade7f24f9",
+        "android_client_info": {
+          "package_name": "com.tokio.teste"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfs9aL8dclx2lWQQDTq2T2mo38Jp2ZEFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
